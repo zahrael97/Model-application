@@ -62,21 +62,4 @@ Open http://localhost:7777 and have fun. :smiley:
   <img src="/static/screenshot.gif" height="480px" alt="">
 </p>
 
-------------------
-
-## Future
-
-1) Enrich the dataset with another real cases.
-2) Improve the detection accuracy.
-3) Hosting the app.[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=965CZ8WNR4Q7C)
-
-
-## More resources
-
-[Pretty & simple image classifier app template](https://github.com/mtobeiyf/keras-flask-deploy-webapp)
-
-[Detecting COVID-19 in X-ray images with Keras, TensorFlow, and Deep Learning](https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/)
-
-[Open database of COVID-19 cases with chest X-ray or CT images](https://github.com/ieee8023/covid-chestxray-dataset)
-
 
