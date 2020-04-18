@@ -12,10 +12,7 @@
 - Install requirements
 - Run the script
 - Go to http://localhost:7777
-- Done! :tada:
 
-
-------------------
 
 ## Run with Docker
 
