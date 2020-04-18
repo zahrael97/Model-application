@@ -14,11 +14,6 @@
 - Go to http://localhost:7777
 - Done! :tada:
 
-:point_down: Screenshot:
-
-<p align="center">
-  <img src="/static/screenshot.png" height="480px" alt="">
-</p>
 
 ------------------
 
